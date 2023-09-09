@@ -8,6 +8,11 @@ Author: Nishant Shah
 
 ## Usage
 
+Add this in before `</head>`
+```
+<script type="text/javascript" src="https://nishantshah977.github.io/php.js/index.min.js"></script>
+```
+
 ### Function: echo(output)
 
 This function mimics PHP's `echo` function and writes the `output` to the document.
